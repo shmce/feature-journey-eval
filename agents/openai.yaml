@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feature Journey & Business Process Evaluator"
+  short_description: "Audits user journeys, business process state machines, and edge-case failure modes"
+  default_prompt: "Use $feature-journey-eval to evaluate the end-to-end user journey and business process."
+
+policy:
+  allow_implicit_invocation: false
